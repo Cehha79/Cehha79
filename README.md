@@ -174,9 +174,9 @@ graph LR
   C --> D[Daten bleiben auf dem Gerät]
 ```
 
-> Unabhängigkeit vor Bequemlichkeit.
-> Verstehen vor Übernehmen.
-> Sauber gebaut vor schnell fertig.
+> **Unabhängigkeit** vor Bequemlichkeit.<br>
+> **Verstehen** vor Übernehmen.<br>
+> **Sauber gebaut** vor schnell fertig.
 
 <details>
 <summary><b>English</b></summary>
@@ -207,9 +207,9 @@ device — no account, no third-party service required.
 
 ### Principles
 
-> Independence over convenience.
-> Understanding over adopting.
-> Built properly over finished quickly.
+> **Independence** over convenience.<br>
+> **Understanding** over adopting.<br>
+> **Built properly** over finished quickly.
 
 ### Contact
 
