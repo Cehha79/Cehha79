@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Hasan Tepegöz — MikaTec">
+  <defs>
+    <pattern id="raster" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#0969da" stroke-width="1" opacity="0.18"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" fill="#ffffff"/>
+  <rect x="600" y="0" width="600" height="240" fill="url(#raster)"/>
+  <rect x="600" y="0" width="600" height="240" fill="#ffffff" opacity="0.25"/>
+
+  <rect x="48" y="48" width="4" height="144" fill="#0969da"/>
+
+  <text x="76" y="104" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#1f2328" letter-spacing="-0.5">Hasan Tepegöz</text>
+  <text x="78" y="138" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#59636e">Software- und IT-Dienstleistung · MikaTec · Böblingen</text>
+  <text x="78" y="176" font-family="SF Mono, Menlo, Consolas, monospace" font-size="15" fill="#0969da">local-first · offline · ohne fremde Dienste</text>
+
+  <g fill="none" stroke="#d1d9e0" stroke-width="1">
+    <rect x="908" y="62" width="52" height="52" rx="4"/>
+    <rect x="972" y="62" width="52" height="52" rx="4"/>
+    <rect x="1036" y="62" width="52" height="52" rx="4"/>
+    <rect x="1100" y="62" width="52" height="52" rx="4"/>
+    <rect x="908" y="126" width="52" height="52" rx="4"/>
+    <rect x="972" y="126" width="52" height="52" rx="4"/>
+    <rect x="1036" y="126" width="52" height="52" rx="4"/>
+    <rect x="1100" y="126" width="52" height="52" rx="4"/>
+  </g>
+  <g fill="#0969da">
+    <rect x="908" y="62" width="52" height="52" rx="4" opacity="0.85"/>
+    <rect x="1036" y="126" width="52" height="52" rx="4" opacity="0.55"/>
+    <rect x="1100" y="62" width="52" height="52" rx="4" opacity="0.3"/>
+  </g>
+</svg>
