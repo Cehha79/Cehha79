@@ -53,7 +53,7 @@ Firmen-Verwaltung und ein Markt-Cockpit mit Live-Kursen.
 Pflegesoftware einer Einrichtung (MediFox Dan, Vivendi, Senso). Daher kenne ich
 die Abläufe, für die ich Software baue: eine Gesundheits-App mit Daten nach
 FHIR/LOINC, einen Betrachter für medizinische Bilddaten in DICOM und NIfTI und,
-noch in Arbeit, AKA Haus, meine eigene App für Organisation und Kommunikation
+noch in Arbeit, [AKA Haus](https://github.com/Cehha79/aka-haus-info), meine eigene App für Organisation und Kommunikation
 im Pflegeheim, die neben der Pflegesoftware läuft.
 
 ## Technik
@@ -117,7 +117,7 @@ cockpit with live prices.
 as the person responsible for the nursing software of a care facility (MediFox
 Dan, Vivendi, Senso). That is why I know the workflows I build software for: a health app
 with data in FHIR/LOINC, a viewer for medical imaging in DICOM and NIfTI and,
-still in progress, AKA Haus, my own app for organisation and communication in
+still in progress, [AKA Haus](https://github.com/Cehha79/aka-haus-info), my own app for organisation and communication in
 the care home, running alongside the nursing software.
 
 | Area | Stack |
