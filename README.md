@@ -4,8 +4,9 @@
   <img src="assets/banner-hell.svg" alt="Hasan Tepegöz — Software- und IT-Dienstleistung, MikaTec, Böblingen">
 </picture>
 
-Ich baue Werkzeuge, die ohne Internet laufen. Die Daten bleiben auf dem Gerät,
-es braucht kein Konto und keinen fremden Dienst.
+Ich entwickle individuelle Software: Apps für Desktop, Web und Mobil,
+KI-Integration und Software für die Pflege. Dahinter stehen über 20 Jahre
+Praxis im Gesundheitswesen.
 
 ## Projekte
 
@@ -58,7 +59,7 @@ Firmen-Verwaltung und ein Markt-Cockpit mit Live-Kursen.
 | Daten | SQLite · PostgreSQL · IndexedDB · Hive · GeoJSON · FHIR/LOINC |
 | Sicherheit | AES-256-GCM · Web Crypto · scrypt · Offline-Betrieb ohne Cloud |
 | Medien | ffmpeg · hls.js · pdf.js · DICOM mit Cornerstone3D |
-| Grundsatz | Local-first: Anwendungen arbeiten offline vollständig, die Daten bleiben auf dem Gerät |
+| Grundsatz | Datensparsam: Wo es passt, bleiben die Daten auf dem Gerät |
 
 ## Werkzeuge
 
@@ -86,8 +87,9 @@ Firmen-Verwaltung und ein Markt-Cockpit mit Live-Kursen.
 
 **Independent software and IT services · MikaTec · Böblingen, Germany**
 
-I build tools that work without an internet connection. Data stays on the
-device: no account, no third-party service.
+I develop custom software: apps for desktop, web and mobile, AI integration
+and software for nursing care, backed by more than 20 years of hands-on
+experience in healthcare.
 
 | Project | About | Stack |
 | --- | --- | --- |
@@ -112,7 +114,7 @@ cockpit with live prices.
 | Data | SQLite · PostgreSQL · IndexedDB · Hive · GeoJSON · FHIR/LOINC |
 | Security | AES-256-GCM · Web Crypto · scrypt · offline operation without cloud |
 | Media | ffmpeg · hls.js · pdf.js · DICOM with Cornerstone3D |
-| Principle | Local-first: applications are fully functional offline, data stays on the device |
+| Principle | Data-sparing: where it fits, data stays on the device |
 
 | Tools | With |
 | --- | --- |
