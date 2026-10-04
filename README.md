@@ -19,10 +19,10 @@ Praxis im Gesundheitswesen.
       <sub>Python · nur Standardbibliothek</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://cehha79.github.io/netz-atlas/"><img src="assets/projekt-netz-atlas.jpg" alt="Netz-Atlas: Weltkarte der Seekabel mit Live-Daten"></a><br>
-      <a href="https://github.com/Cehha79/netz-atlas"><b>netz-atlas</b></a><br>
-      Die physische Architektur des Internets: Seekabel, Knotenpunkte und Laufzeiten, mit Live-Daten zu Erdbeben und Ausfällen.<br>
-      <sub>Vanilla JS · ohne Build-Schritt</sub>
+      <a href="https://mika-tec.com/aka-haus.html"><img src="assets/projekt-aka-haus.jpg" alt="AKA Haus: Angebote der Betreuung im Pflegeheim"></a><br>
+      <a href="https://github.com/Cehha79/aka-haus-info"><b>aka-haus</b></a><br>
+      Organisation und Kommunikation im Pflegeheim, eigenständig neben jeder Pflegesoftware. Läuft nur im Hausnetz. In Entwicklung, Vorführung auf Anfrage.<br>
+      <sub>Web · iPad · Server im Haus</sub>
     </td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ experience in healthcare.
 | Project | About | Stack |
 | --- | --- | --- |
 | [aka-recht](https://github.com/Cehha79/aka-recht) | Local case-file manager for your own legal matters under German law: documents, parties, timeline and deadline calculation. Works over MCP with the AI you already have. | Python, standard library only |
-| [netz-atlas](https://github.com/Cehha79/netz-atlas) | The physical architecture of the internet: submarine cables, exchange points and latency, with live data on earthquakes and outages. | Vanilla JS, no build step |
+| [aka-haus](https://github.com/Cehha79/aka-haus-info) | Organisation and communication for nursing homes, running alongside any nursing software, inside the home's own network only. In development, demo on request. | Web, iPad, on-site server |
 | [ki-ai-netz](https://github.com/Cehha79/ki-ai-netz) | Sourced overview of the major AI providers and their models, in German and English. | Vanilla JS, static |
 | [mikatec](https://github.com/Cehha79/mikatec) | Company website of MikaTec, static, no build step, light and dark mode. | HTML · CSS · JS |
 
