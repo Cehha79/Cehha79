@@ -40,19 +40,40 @@ es braucht kein Konto und keinen fremden Dienst.
   </tr>
 </table>
 
-Der größere Teil meiner Arbeit liegt in privaten Repositories: Desktop-Werkzeuge
-für Dateiverwaltung, Verschlüsselung, Medien und Diagnose, dazu Lern- und
-Nachschlagewerke in reinem HTML.
+Das sind die öffentlichen Repositories. Der größere Teil meiner Arbeit ist
+privat: über 25 Projekte, darunter Desktop-Werkzeuge für Verschlüsselung,
+Speicher, Medien, medizinische Bilddaten und Gerätediagnose, eine
+Firmen-Verwaltung und ein Markt-Cockpit mit Live-Kursen.
+**Alle Projekte mit Bildern: [mika-tec.com/projekte.html](https://mika-tec.com/projekte.html)**
 
 ## Technik
 
 | Bereich | Womit |
 | --- | --- |
-| Desktop | Electron für macOS, Windows und Linux |
-| Mobil | Flutter für Android |
-| Web | Vanilla JS, ohne Framework und ohne Build-Schritt |
-| Werkzeuge | Python für Auswertung und Automatisierung |
-| Grundsatz | Local-first: Anwendungen arbeiten offline vollständig |
+| Sprachen | JavaScript · TypeScript · Python · Dart · Swift · Rust · SQL · HTML · CSS · Shell |
+| Desktop | Electron für macOS, Windows und Linux · electron-vite · electron-builder · Universal-Build für Intel und Apple Silicon · native Helfer in Swift und C |
+| Mobil | Capacitor für iOS und Android · Flutter · PWA |
+| Web | Vanilla JS ohne Framework · Vite · React · Node.js · Canvas · WebGL · Three.js · MapLibre GL · Web Audio |
+| KI | MCP-Server (Model Context Protocol) · Schnittstellen zu Claude, GPT und Gemini · Texterkennung mit Tesseract |
+| Daten | SQLite · PostgreSQL · IndexedDB · Hive · GeoJSON · FHIR/LOINC |
+| Sicherheit | AES-256-GCM · Web Crypto · scrypt · Offline-Betrieb ohne Cloud |
+| Medien | ffmpeg · hls.js · pdf.js · DICOM mit Cornerstone3D |
+| Grundsatz | Local-first: Anwendungen arbeiten offline vollständig, die Daten bleiben auf dem Gerät |
+
+## Werkzeuge
+
+| Bereich | Womit |
+| --- | --- |
+| KI-Assistenten | Claude Code · Claude Desktop · Codex · Gemini CLI · GitHub Copilot · Cursor · Antigravity · OpenCode · Cline · aider |
+| KI lokal | Ollama · whisper.cpp |
+| Editoren | VS Code · Xcode · Android Studio · WebStorm · PyCharm · Neovim |
+| Terminal | Ghostty · iTerm2 · kitty · WezTerm · Warp · tmux · zsh mit starship · yazi |
+| Versionen | Git · GitHub CLI · GitHub Desktop · GitKraken · lazygit · GitHub Pages |
+| Laufzeiten | Node.js · Bun · Python · Rust · Go · Java · Dart und Flutter · Swift |
+| Container und VMs | Docker mit OrbStack · Podman · UTM · VirtualBox · QEMU |
+| Daten und APIs | DBeaver · Postman · HTTPie · SQLite |
+| Code-Qualität | Ruff · Prettier · ESLint · HTMLHint · ShellCheck · esbuild |
+| Gestaltung und 3D | Figma · Blender · Godot · draw.io · KiCad · Autodesk Fusion |
 
 ## Kontakt
 
@@ -75,16 +96,35 @@ device: no account, no third-party service.
 | [ki-ai-netz](https://github.com/Cehha79/ki-ai-netz) | Sourced overview of the major AI providers and their models, in German and English. | Vanilla JS, static |
 | [mikatec](https://github.com/Cehha79/mikatec) | Company website of MikaTec, static, no build step, light and dark mode. | HTML · CSS · JS |
 
-Most of my work lives in private repositories: desktop tools for file
-management, encryption, media and diagnostics, plus learning and reference
-material in plain HTML.
+These are the public repositories. Most of my work is private: more than 25
+projects, including desktop tools for encryption, storage, media, medical
+imaging and device diagnostics, a business administration app and a market
+cockpit with live prices.
+**All projects with screenshots: [mika-tec.com/projekte.html](https://mika-tec.com/projekte.html)**
 
 | Area | Stack |
 | --- | --- |
-| Desktop | Electron for macOS, Windows and Linux |
-| Mobile | Flutter for Android |
-| Web | Vanilla JS, no framework, no build step |
-| Tooling | Python for analysis and automation |
-| Principle | Local-first: applications are fully functional offline |
+| Languages | JavaScript · TypeScript · Python · Dart · Swift · Rust · SQL · HTML · CSS · Shell |
+| Desktop | Electron for macOS, Windows and Linux · electron-vite · electron-builder · universal builds for Intel and Apple Silicon · native helpers in Swift and C |
+| Mobile | Capacitor for iOS and Android · Flutter · PWA |
+| Web | Vanilla JS without a framework · Vite · React · Node.js · Canvas · WebGL · Three.js · MapLibre GL · Web Audio |
+| AI | MCP servers (Model Context Protocol) · APIs of Claude, GPT and Gemini · OCR with Tesseract |
+| Data | SQLite · PostgreSQL · IndexedDB · Hive · GeoJSON · FHIR/LOINC |
+| Security | AES-256-GCM · Web Crypto · scrypt · offline operation without cloud |
+| Media | ffmpeg · hls.js · pdf.js · DICOM with Cornerstone3D |
+| Principle | Local-first: applications are fully functional offline, data stays on the device |
+
+| Tools | With |
+| --- | --- |
+| AI assistants | Claude Code · Claude Desktop · Codex · Gemini CLI · GitHub Copilot · Cursor · Antigravity · OpenCode · Cline · aider |
+| Local AI | Ollama · whisper.cpp |
+| Editors | VS Code · Xcode · Android Studio · WebStorm · PyCharm · Neovim |
+| Terminal | Ghostty · iTerm2 · kitty · WezTerm · Warp · tmux · zsh with starship · yazi |
+| Version control | Git · GitHub CLI · GitHub Desktop · GitKraken · lazygit · GitHub Pages |
+| Runtimes | Node.js · Bun · Python · Rust · Go · Java · Dart and Flutter · Swift |
+| Containers and VMs | Docker with OrbStack · Podman · UTM · VirtualBox · QEMU |
+| Data and APIs | DBeaver · Postman · HTTPie · SQLite |
+| Code quality | Ruff · Prettier · ESLint · HTMLHint · ShellCheck · esbuild |
+| Design and 3D | Figma · Blender · Godot · draw.io · KiCad · Autodesk Fusion |
 
 </details>
