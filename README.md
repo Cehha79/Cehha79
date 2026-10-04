@@ -47,6 +47,15 @@ Speicher, Medien, medizinische Bilddaten und Gerätediagnose, eine
 Firmen-Verwaltung und ein Markt-Cockpit mit Live-Kursen.
 **Alle Projekte mit Bildern: [mika-tec.com/projekte.html](https://mika-tec.com/projekte.html)**
 
+## Hintergrund
+
+Über 20 Jahre im Gesundheitswesen, als Pflegekraft und als Zuständiger für die
+Pflegesoftware einer Einrichtung (MediFox Dan, Vivendi, Senso). Daher kenne ich
+die Abläufe, für die ich Software baue: eine Gesundheits-App mit Daten nach
+FHIR/LOINC, einen Betrachter für medizinische Bilddaten in DICOM und NIfTI und,
+noch in Arbeit, AKA DOKU, meine eigene Pflegesoftware für Dokumentation und
+interne Kommunikation.
+
 ## Technik
 
 | Bereich | Womit |
@@ -103,6 +112,13 @@ projects, including desktop tools for encryption, storage, media, medical
 imaging and device diagnostics, a business administration app and a market
 cockpit with live prices.
 **All projects with screenshots: [mika-tec.com/projekte.html](https://mika-tec.com/projekte.html)**
+
+**Background.** More than 20 years in healthcare, working in nursing care and
+as the person responsible for the nursing software of a care facility (MediFox
+Dan, Vivendi, Senso). That is why I know the workflows I build software for: a health app
+with data in FHIR/LOINC, a viewer for medical imaging in DICOM and NIfTI and,
+still in progress, AKA DOKU, my own nursing care software for documentation
+and internal communication.
 
 | Area | Stack |
 | --- | --- |
