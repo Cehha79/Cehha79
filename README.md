@@ -33,10 +33,10 @@ Praxis im Gesundheitswesen.
       <sub>Vanilla JS · statisch</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://mika-tec.com"><img src="assets/projekt-mikatec.jpg" alt="MikaTec: Startseite der Firmen-Website"></a><br>
-      <a href="https://github.com/Cehha79/mikatec"><b>mikatec</b></a><br>
-      Firmen-Website von MikaTec, statisch und ohne Build-Schritt, mit hellem und dunklem Modus.<br>
-      <sub>HTML · CSS · JS</sub>
+      <a href="https://cehha79.github.io/netz-atlas/"><img src="assets/projekt-netz-atlas.jpg" alt="Netz-Atlas: interaktiver Globus mit Seekabeln und Internet-Knotenpunkten"></a><br>
+      <a href="https://github.com/Cehha79/netz-atlas"><b>netz-atlas</b></a><br>
+      Interaktiver Atlas des globalen Internets: Seekabel, Knotenpunkte und Laufzeiten. Mit 3D-Globus, Weltkarte und Live-Daten zu Erdbeben und Internet-Ausfällen.<br>
+      <sub>Vanilla JS · Canvas · WebGL</sub>
     </td>
   </tr>
 </table>
@@ -105,7 +105,7 @@ experience in healthcare.
 | [aka-recht](https://github.com/Cehha79/aka-recht) | Local case-file manager for your own legal matters under German law: documents, parties, timeline and deadline calculation. Works over MCP with the AI you already have. | Python, standard library only |
 | [aka-haus](https://github.com/Cehha79/aka-haus-info) | Organisation and communication for nursing homes, running alongside any nursing software, inside the home's own network only. In development, demo on request. | Web, iPad, on-site server |
 | [ki-ai-netz](https://github.com/Cehha79/ki-ai-netz) | Sourced overview of the major AI providers and their models, in German and English. | Vanilla JS, static |
-| [mikatec](https://github.com/Cehha79/mikatec) | Company website of MikaTec, static, no build step, light and dark mode. | HTML · CSS · JS |
+| [netz-atlas](https://github.com/Cehha79/netz-atlas) | Interactive atlas of the global internet: submarine cables, network hubs and latency. With a 3D globe, world map and live data on earthquakes and internet outages. | Vanilla JS · Canvas · WebGL |
 
 These are the public repositories. Most of my work is private: more than 25
 projects, including desktop tools for encryption, storage, media, medical
