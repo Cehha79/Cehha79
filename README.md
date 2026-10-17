@@ -51,8 +51,8 @@ Firmen-Verwaltung und ein Markt-Cockpit mit Live-Kursen.
 
 Über 20 Jahre im Gesundheitswesen, als Pflegekraft und als Zuständiger für die
 Pflegesoftware einer Einrichtung (MediFox Dan, Vivendi, Senso). Daher kenne ich
-die Abläufe, für die ich Software baue: eine Gesundheits-App mit Daten nach
-FHIR/LOINC, einen Betrachter für medizinische Bilddaten in DICOM und NIfTI und,
+die Abläufe, für die ich Software baue: einen Betrachter für medizinische
+Bilddaten in DICOM und NIfTI und,
 noch in Arbeit, [AKA Haus](https://github.com/Cehha79/aka-haus-info), meine eigene App für Organisation und Kommunikation
 im Pflegeheim, die neben der Pflegesoftware läuft.
 
@@ -74,16 +74,16 @@ im Pflegeheim, die neben der Pflegesoftware läuft.
 
 | Bereich | Womit |
 | --- | --- |
-| KI-Assistenten | Claude Code · Claude Desktop · Codex · Gemini CLI · GitHub Copilot · Cursor · Antigravity · OpenCode · Cline · aider |
+| KI-Assistenten | Claude Code · Claude Desktop · Codex · Cursor · Antigravity · OpenCode · Cline · aider |
 | KI lokal | Ollama · whisper.cpp |
-| Editoren | VS Code · Xcode · Android Studio · WebStorm · PyCharm · Neovim |
+| Editoren | VS Code · Xcode · WebStorm · PyCharm · Neovim |
 | Terminal | Ghostty · iTerm2 · kitty · WezTerm · Warp · tmux · zsh mit starship · yazi |
-| Versionen | Git · GitHub CLI · GitHub Desktop · GitKraken · lazygit · GitHub Pages |
+| Versionen | Git · GitHub CLI · GitKraken · lazygit · GitHub Pages |
 | Laufzeiten | Node.js · Bun · Python · Rust · Go · Java · Dart und Flutter · Swift |
 | Container und VMs | Docker mit OrbStack · Podman · UTM · VirtualBox · QEMU |
 | Daten und APIs | DBeaver · Postman · HTTPie · SQLite |
 | Code-Qualität | Ruff · Prettier · ESLint · HTMLHint · ShellCheck · esbuild |
-| Gestaltung und 3D | Figma · Blender · Godot · draw.io · KiCad · Autodesk Fusion |
+| Gestaltung und 3D | Figma · Blender · Godot · draw.io · KiCad |
 
 ## Kontakt
 
@@ -115,8 +115,8 @@ cockpit with live prices.
 
 **Background.** More than 20 years in healthcare, working in nursing care and
 as the person responsible for the nursing software of a care facility (MediFox
-Dan, Vivendi, Senso). That is why I know the workflows I build software for: a health app
-with data in FHIR/LOINC, a viewer for medical imaging in DICOM and NIfTI and,
+Dan, Vivendi, Senso). That is why I know the workflows I build software for: a viewer
+for medical imaging in DICOM and NIfTI and,
 still in progress, [AKA Haus](https://github.com/Cehha79/aka-haus-info), my own app for organisation and communication in
 the care home, running alongside the nursing software.
 
@@ -134,15 +134,15 @@ the care home, running alongside the nursing software.
 
 | Tools | With |
 | --- | --- |
-| AI assistants | Claude Code · Claude Desktop · Codex · Gemini CLI · GitHub Copilot · Cursor · Antigravity · OpenCode · Cline · aider |
+| AI assistants | Claude Code · Claude Desktop · Codex · Cursor · Antigravity · OpenCode · Cline · aider |
 | Local AI | Ollama · whisper.cpp |
-| Editors | VS Code · Xcode · Android Studio · WebStorm · PyCharm · Neovim |
+| Editors | VS Code · Xcode · WebStorm · PyCharm · Neovim |
 | Terminal | Ghostty · iTerm2 · kitty · WezTerm · Warp · tmux · zsh with starship · yazi |
-| Version control | Git · GitHub CLI · GitHub Desktop · GitKraken · lazygit · GitHub Pages |
+| Version control | Git · GitHub CLI · GitKraken · lazygit · GitHub Pages |
 | Runtimes | Node.js · Bun · Python · Rust · Go · Java · Dart and Flutter · Swift |
 | Containers and VMs | Docker with OrbStack · Podman · UTM · VirtualBox · QEMU |
 | Data and APIs | DBeaver · Postman · HTTPie · SQLite |
 | Code quality | Ruff · Prettier · ESLint · HTMLHint · ShellCheck · esbuild |
-| Design and 3D | Figma · Blender · Godot · draw.io · KiCad · Autodesk Fusion |
+| Design and 3D | Figma · Blender · Godot · draw.io · KiCad |
 
 </details>
