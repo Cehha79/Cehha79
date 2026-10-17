@@ -65,7 +65,7 @@ im Pflegeheim, die neben der Pflegesoftware läuft.
 | Mobil | Capacitor für iOS und Android · Flutter · PWA |
 | Web | Vanilla JS ohne Framework · Vite · React · Node.js · Canvas · WebGL · Three.js · MapLibre GL · Web Audio |
 | KI | MCP-Server (Model Context Protocol) · Schnittstellen zu Claude, GPT und Gemini · Texterkennung mit Tesseract |
-| Daten | SQLite · PostgreSQL · IndexedDB · Hive · GeoJSON · FHIR/LOINC |
+| Daten | SQLite · PostgreSQL · IndexedDB · Hive · GeoJSON |
 | Sicherheit | AES-256-GCM · Web Crypto · scrypt · Offline-Betrieb ohne Cloud |
 | Medien | ffmpeg · hls.js · pdf.js · DICOM mit Cornerstone3D |
 | Grundsatz | Datensparsam: Wo es passt, bleiben die Daten auf dem Gerät |
@@ -127,7 +127,7 @@ the care home, running alongside the nursing software.
 | Mobile | Capacitor for iOS and Android · Flutter · PWA |
 | Web | Vanilla JS without a framework · Vite · React · Node.js · Canvas · WebGL · Three.js · MapLibre GL · Web Audio |
 | AI | MCP servers (Model Context Protocol) · APIs of Claude, GPT and Gemini · OCR with Tesseract |
-| Data | SQLite · PostgreSQL · IndexedDB · Hive · GeoJSON · FHIR/LOINC |
+| Data | SQLite · PostgreSQL · IndexedDB · Hive · GeoJSON |
 | Security | AES-256-GCM · Web Crypto · scrypt · offline operation without cloud |
 | Media | ffmpeg · hls.js · pdf.js · DICOM with Cornerstone3D |
 | Principle | Data-sparing: where it fits, data stays on the device |
