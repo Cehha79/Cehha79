@@ -13,19 +13,25 @@ Praxis im Gesundheitswesen.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://mika-tec.com/aka-recht.html"><img src="assets/projekt-aka-recht.jpg" alt="AKA Recht: Fallakte mit Fristen, Aufgaben und KI-Leiste"></a><br>
+      <a href="https://github.com/Cehha79/aka-recht-info"><b>aka-recht</b></a><br>
+      Aktenmappe für eigene Rechtssachen als Desktop-App, mit KI-Leiste für Claude und OpenAI: Fristen nach BGB, Chronologie, Entwürfe, alles lokal. In Entwicklung, Weitergabe auf Anfrage.<br>
+      <sub>Electron · Node.js · Claude Agent SDK · Codex SDK</sub>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://mika-tec.com/aka-haus.html"><img src="assets/projekt-aka-haus.jpg" alt="AKA Haus: Angebote der Betreuung im Pflegeheim"></a><br>
       <a href="https://github.com/Cehha79/aka-haus-info"><b>aka-haus</b></a><br>
       Organisation und Kommunikation im Pflegeheim, eigenständig neben jeder Pflegesoftware. Läuft nur im Hausnetz. In Entwicklung, Vorführung auf Anfrage.<br>
       <sub>Web · iPad · Server im Haus</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://cehha79.github.io/ki-ai-netz/"><img src="assets/projekt-ki-ai-netz.jpg" alt="KI/AI-Netz: Anbieter und Modelle als Netz"></a><br>
       <a href="https://github.com/Cehha79/ki-ai-netz"><b>ki-ai-netz</b></a><br>
       Quellengeprüfte Übersicht der großen KI-Anbieter und ihrer Modelle, deutsch und englisch.<br>
       <sub>Vanilla JS · statisch</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://cehha79.github.io/netz-atlas/"><img src="assets/projekt-netz-atlas.jpg" alt="Netz-Atlas: interaktiver Globus mit Seekabeln und Internet-Knotenpunkten"></a><br>
       <a href="https://github.com/Cehha79/netz-atlas"><b>netz-atlas</b></a><br>
@@ -96,6 +102,7 @@ experience in healthcare.
 
 | Project | About | Stack |
 | --- | --- | --- |
+| [aka-recht](https://github.com/Cehha79/aka-recht-info) | Case file for your own legal matters under German law as a desktop app, with an AI panel for Claude and OpenAI: deadlines, timeline, drafts, all local. In development, available on request. | Electron, Node.js, Claude Agent SDK, Codex SDK |
 | [aka-haus](https://github.com/Cehha79/aka-haus-info) | Organisation and communication for nursing homes, running alongside any nursing software, inside the home's own network only. In development, demo on request. | Web, iPad, on-site server |
 | [ki-ai-netz](https://github.com/Cehha79/ki-ai-netz) | Sourced overview of the major AI providers and their models, in German and English. | Vanilla JS, static |
 | [netz-atlas](https://github.com/Cehha79/netz-atlas) | Interactive atlas of the global internet: submarine cables, network hubs and latency. With a 3D globe, world map and live data on earthquakes and internet outages. | Vanilla JS · Canvas · WebGL |
