@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dunkel.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-hell.svg">
-  <img src="assets/banner-hell.svg" alt="Hasan Tepegöz — Software- und IT-Dienstleistung, MikaTec, Böblingen">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dunkel.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-hell.svg?v=2">
+  <img src="assets/banner-hell.svg?v=2" alt="Hasan Tepegöz — Software- und IT-Dienstleistung, MikaTec, Böblingen">
 </picture>
 
 Ich entwickle individuelle Software: Apps für Desktop, Web und Mobil,
