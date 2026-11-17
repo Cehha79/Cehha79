@@ -27,9 +27,9 @@ Praxis im Gesundheitswesen.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://cehha79.github.io/ki-ai-netz/"><img src="assets/projekt-ki-ai-netz.jpg" alt="KI/AI-Netz: Anbieter und Modelle als Netz"></a><br>
+      <a href="https://cehha79.github.io/ki-ai-netz/"><img src="assets/projekt-ki-ai-netz.jpg" alt="KI/AI-Netz: Schichtenplan der KI-Anbieter mit ihren Beziehungen"></a><br>
       <a href="https://github.com/Cehha79/ki-ai-netz"><b>ki-ai-netz</b></a><br>
-      Quellengeprüfte Übersicht der großen KI-Anbieter und ihrer Modelle, deutsch und englisch.<br>
+      Nachschlagewerk zur KI-Welt: Anbieter, Modelle, Technik, Wissen, Finanzen und Neuigkeiten. Jede Angabe mit Quelle und Prüfdatum, in Deutsch, Englisch und Türkisch.<br>
       <sub>Vanilla JS · statisch</sub>
     </td>
     <td width="50%" valign="top">
@@ -104,7 +104,7 @@ experience in healthcare.
 | --- | --- | --- |
 | [aka-recht](https://github.com/Cehha79/aka-recht-info) | Case file for your own legal matters under German law as a desktop app, with an AI panel for Claude and OpenAI: deadlines, timeline, drafts, all local. In development, available on request. | Electron, Node.js, Claude Agent SDK, Codex SDK |
 | [aka-haus](https://github.com/Cehha79/aka-haus-info) | Organisation and communication for nursing homes, running alongside any nursing software, inside the home's own network only. In development, demo on request. | Web, iPad, on-site server |
-| [ki-ai-netz](https://github.com/Cehha79/ki-ai-netz) | Sourced overview of the major AI providers and their models, in German and English. | Vanilla JS, static |
+| [ki-ai-netz](https://github.com/Cehha79/ki-ai-netz) | Reference site on the AI world: providers, models, technology, know-how, finance and news. Every figure comes with its source and check date, in German, English and Turkish. | Vanilla JS, static |
 | [netz-atlas](https://github.com/Cehha79/netz-atlas) | Interactive atlas of the global internet: submarine cables, network hubs and latency. With a 3D globe, world map and live data on earthquakes and internet outages. | Vanilla JS · Canvas · WebGL |
 
 These are the public repositories. Most of my work is private: more than 25
