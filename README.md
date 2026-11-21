@@ -19,10 +19,10 @@ Praxis im Gesundheitswesen.
       <sub>Electron · Node.js · Claude Agent SDK · Codex SDK</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://mika-tec.com/aka-haus.html"><img src="assets/projekt-aka-haus.jpg" alt="AKA Haus: Angebote der Betreuung im Pflegeheim"></a><br>
-      <a href="https://github.com/Cehha79/aka-haus-info"><b>aka-haus</b></a><br>
-      Organisation und Kommunikation im Pflegeheim, eigenständig neben jeder Pflegesoftware. Läuft nur im Hausnetz. In Entwicklung, Vorführung auf Anfrage.<br>
-      <sub>Web · iPad · Server im Haus</sub>
+      <a href="https://mika-tec.com/asa-haus.html"><img src="assets/projekt-asa-haus.jpg" alt="ASA Haus: Betreuung im Pflegeheim mit erfundenen Übungsdaten"></a><br>
+      <a href="https://github.com/Cehha79/asa-haus-info"><b>asa-haus</b></a><br>
+      Organisation und Kommunikation im Pflegeheim, eigenständig neben jeder Pflegesoftware: Desktop-App für die PCs, App für das iPad, eigener Server in Deutschland, KI nur mit Freigabe der Leitung. In Entwicklung, Vorführung auf Anfrage.<br>
+      <sub>Electron · Capacitor · PocketBase</sub>
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Firmen-Verwaltung und ein Markt-Cockpit mit Live-Kursen.
 Pflegesoftware einer Einrichtung (MediFox Dan, Vivendi, Senso). Daher kenne ich
 die Abläufe, für die ich Software baue: einen Betrachter für medizinische
 Bilddaten in DICOM und NIfTI und,
-noch in Arbeit, [AKA Haus](https://github.com/Cehha79/aka-haus-info), meine eigene App für Organisation und Kommunikation
+noch in Arbeit, [ASA Haus](https://github.com/Cehha79/asa-haus-info), meine eigene App für Organisation und Kommunikation
 im Pflegeheim, die neben der Pflegesoftware läuft.
 
 ## Technik
@@ -103,7 +103,7 @@ experience in healthcare.
 | Project | About | Stack |
 | --- | --- | --- |
 | [aka-recht](https://github.com/Cehha79/aka-recht-info) | Case file for your own legal matters under German law as a desktop app, with an AI panel for Claude and OpenAI: deadlines, timeline, drafts, all local. In development, available on request. | Electron, Node.js, Claude Agent SDK, Codex SDK |
-| [aka-haus](https://github.com/Cehha79/aka-haus-info) | Organisation and communication for nursing homes, running alongside any nursing software, inside the home's own network only. In development, demo on request. | Web, iPad, on-site server |
+| [asa-haus](https://github.com/Cehha79/asa-haus-info) | Organisation and communication for nursing homes, running alongside any nursing software: desktop app for the PCs, iPad app, own server in Germany, AI only when management enables it. In development, demo on request. | Electron, Capacitor, PocketBase |
 | [ki-ai-netz](https://github.com/Cehha79/ki-ai-netz) | Reference site on the AI world: providers, models, technology, know-how, finance and news. Every figure comes with its source and check date, in German, English and Turkish. | Vanilla JS, static |
 | [netz-atlas](https://github.com/Cehha79/netz-atlas) | Reference site on how the internet is built: submarine cables, landing places, exchanges, technology and documented incidents. Every figure comes with its source and check date, in German, English and Turkish. | Vanilla JS · Canvas · static |
 
@@ -117,7 +117,7 @@ cockpit with live prices.
 as the person responsible for the nursing software of a care facility (MediFox
 Dan, Vivendi, Senso). That is why I know the workflows I build software for: a viewer
 for medical imaging in DICOM and NIfTI and,
-still in progress, [AKA Haus](https://github.com/Cehha79/aka-haus-info), my own app for organisation and communication in
+still in progress, [ASA Haus](https://github.com/Cehha79/asa-haus-info), my own app for organisation and communication in
 the care home, running alongside the nursing software.
 
 | Area | Stack |
