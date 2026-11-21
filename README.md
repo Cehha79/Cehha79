@@ -19,7 +19,7 @@ Praxis im Gesundheitswesen.
       <sub>Electron · Node.js · Claude Agent SDK · Codex SDK</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://mika-tec.com/asa-haus.html"><img src="assets/projekt-asa-haus.jpg" alt="ASA Haus: Betreuung im Pflegeheim mit erfundenen Übungsdaten"></a><br>
+      <a href="https://mika-tec.com/asa-haus.html"><img src="assets/projekt-asa-haus.jpg" alt="ASA Haus: KI-System mit AKA und ASA neben der Betreuung, erfundene Übungsdaten"></a><br>
       <a href="https://github.com/Cehha79/asa-haus-info"><b>asa-haus</b></a><br>
       Organisation und Kommunikation im Pflegeheim, eigenständig neben jeder Pflegesoftware: Desktop-App für die PCs, App für das iPad, eigener Server in Deutschland, KI nur mit Freigabe der Leitung. In Entwicklung, Vorführung auf Anfrage.<br>
       <sub>Electron · Capacitor · PocketBase</sub>
