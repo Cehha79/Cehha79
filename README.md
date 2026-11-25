@@ -13,20 +13,6 @@ Praxis im Gesundheitswesen.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://mika-tec.com/aka-recht.html"><img src="assets/projekt-aka-recht.jpg" alt="AKA Recht: Fallakte mit Fristen, Aufgaben und KI-Leiste"></a><br>
-      <a href="https://github.com/Cehha79/aka-recht-info"><b>aka-recht</b></a><br>
-      Aktenmappe für eigene Rechtssachen als Desktop-App, mit KI-Leiste für Claude und OpenAI: Fristen nach BGB, Chronologie, Entwürfe, alles lokal. In Entwicklung, Weitergabe auf Anfrage.<br>
-      <sub>Electron · Node.js · Claude Agent SDK · Codex SDK</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://mika-tec.com/asa-haus.html"><img src="assets/projekt-asa-haus.jpg" alt="ASA Haus: KI-System mit AKA und ASA neben der Betreuung, erfundene Übungsdaten"></a><br>
-      <a href="https://github.com/Cehha79/asa-haus-info"><b>asa-haus</b></a><br>
-      Organisation und Kommunikation im Pflegeheim, eigenständig neben jeder Pflegesoftware: Desktop-App für die PCs, App für das iPad, eigener Server in Deutschland, KI nur mit Freigabe der Leitung. In Entwicklung, Vorführung auf Anfrage.<br>
-      <sub>Electron · Capacitor · PocketBase</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://cehha79.github.io/ki-ai-netz/"><img src="assets/projekt-ki-ai-netz.jpg" alt="KI/AI-Netz: Schichtenplan der KI-Anbieter mit ihren Beziehungen"></a><br>
       <a href="https://github.com/Cehha79/ki-ai-netz"><b>ki-ai-netz</b></a><br>
       Nachschlagewerk zur KI-Welt: Anbieter, Modelle, Technik, Wissen, Finanzen und Neuigkeiten. Jede Angabe mit Quelle und Prüfdatum, in Deutsch, Englisch und Türkisch.<br>
@@ -45,16 +31,14 @@ Das sind die öffentlichen Repositories. Der größere Teil meiner Arbeit ist
 privat: über 25 Projekte, darunter Desktop-Werkzeuge für Verschlüsselung,
 Speicher, Medien, medizinische Bilddaten und Gerätediagnose, eine
 Firmen-Verwaltung und ein Markt-Cockpit mit Live-Kursen.
-**Alle Projekte mit Bildern: [mika-tec.com/projekte.html](https://mika-tec.com/projekte.html)**
+**Alle Projekte: [mika-tec.com/projekte.html](https://mika-tec.com/projekte.html)**
 
 ## Hintergrund
 
 Über 20 Jahre im Gesundheitswesen, als Pflegekraft und als Zuständiger für die
 Pflegesoftware einer Einrichtung (MediFox Dan, Vivendi, Senso). Daher kenne ich
-die Abläufe, für die ich Software baue: einen Betrachter für medizinische
-Bilddaten in DICOM und NIfTI und,
-noch in Arbeit, [ASA Haus](https://github.com/Cehha79/asa-haus-info), meine eigene App für Organisation und Kommunikation
-im Pflegeheim, die neben der Pflegesoftware läuft.
+die Abläufe, für die ich Software baue, zum Beispiel einen Betrachter für
+medizinische Bilddaten in DICOM und NIfTI.
 
 ## Technik
 
@@ -102,8 +86,6 @@ experience in healthcare.
 
 | Project | About | Stack |
 | --- | --- | --- |
-| [aka-recht](https://github.com/Cehha79/aka-recht-info) | Case file for your own legal matters under German law as a desktop app, with an AI panel for Claude and OpenAI: deadlines, timeline, drafts, all local. In development, available on request. | Electron, Node.js, Claude Agent SDK, Codex SDK |
-| [asa-haus](https://github.com/Cehha79/asa-haus-info) | Organisation and communication for nursing homes, running alongside any nursing software: desktop app for the PCs, iPad app, own server in Germany, AI only when management enables it. In development, demo on request. | Electron, Capacitor, PocketBase |
 | [ki-ai-netz](https://github.com/Cehha79/ki-ai-netz) | Reference site on the AI world: providers, models, technology, know-how, finance and news. Every figure comes with its source and check date, in German, English and Turkish. | Vanilla JS, static |
 | [netz-atlas](https://github.com/Cehha79/netz-atlas) | Reference site on how the internet is built: submarine cables, landing places, exchanges, technology and documented incidents. Every figure comes with its source and check date, in German, English and Turkish. | Vanilla JS · Canvas · static |
 
@@ -111,14 +93,12 @@ These are the public repositories. Most of my work is private: more than 25
 projects, including desktop tools for encryption, storage, media, medical
 imaging and device diagnostics, a business administration app and a market
 cockpit with live prices.
-**All projects with screenshots: [mika-tec.com/projekte.html](https://mika-tec.com/projekte.html)**
+**All projects: [mika-tec.com/projekte.html](https://mika-tec.com/projekte.html)**
 
 **Background.** More than 20 years in healthcare, working in nursing care and
 as the person responsible for the nursing software of a care facility (MediFox
-Dan, Vivendi, Senso). That is why I know the workflows I build software for: a viewer
-for medical imaging in DICOM and NIfTI and,
-still in progress, [ASA Haus](https://github.com/Cehha79/asa-haus-info), my own app for organisation and communication in
-the care home, running alongside the nursing software.
+Dan, Vivendi, Senso). That is why I know the workflows I build software for, for
+example a viewer for medical imaging in DICOM and NIfTI.
 
 | Area | Stack |
 | --- | --- |
